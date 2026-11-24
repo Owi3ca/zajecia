@@ -1,0 +1,55 @@
+# Imię Nazwisko
+
+**Email:** mateuszowczarek@op.pl
+**Telefon:** +48 573298505
+**Lokalizacja:** Śrem, Polska
+
+## Podsumowanie
+Jestem studentem zainteresowanym technologiami informatycznymi, programowaniem oraz rozwojem oprogramowania.
+
+## Doświadczenie zawodowe
+
+### Praktykant IT | ABC
+
+07.2023 – 08.2023
+
+Konfiguracja komputerów
+Pomoc użytkownikom w rozwiązywaniu problemów technicznych
+Instalacja oprogramowania
+Tworzenie dokumentacji technicznej
+
+## Edukacja
+
+### Tytuł Studiów | Nazwa Uczelni
+*Rok ukończenia*
+
+- Specjalizacja
+- Średnia ocen
+- Istotne osiągnięcia akademickie
+
+## Umiejętności
+
+- **Techniczne:** Python, R, SQL, Git
+- **Miękkie:** Komunikacja, praca zespołowa, rozwiązywanie problemów
+- **Języki:** Polski (ojczysty), Angielski (B2)
+
+## Certyfikaty
+
+- Nazwa Certyfikatu, Instytucja, Rok
+- Kolejny Certyfikat
+
+## Projekty
+
+### Strona internetowa Portfolio
+Stworzenie własnej strony prezentującej projekty
+Technologie: HTML, CSS, JavaScript
+Publikacja projektu na GitHub
+
+## Zainteresowania
+
+- Programowanie
+- Analiza danych
+- Sztuczna inteligencja
+
+## Referencje
+Dostępne na życzenie

@@ -9,9 +9,9 @@ navbar:
     href: about.html
   - text: License
     href: license.html
-  - text: Coś
+  - text: Cos
     href: cos.html
-  - text: Coś 2
+  - text: Cos 2
     href: cos2.html
   - text: CV
     href: cv.html
